@@ -6,8 +6,10 @@ This is an interactive desktop application for storing a list of different playa
   git clone https://github.com/aaronnewmanj/Game-Hub.git
 
 **2. Run Program:**
-  python3 GameHub.py
-  or
+  python3 GameHub.py  
+  
+  or  
+  
   python GameHub.py
 
   
