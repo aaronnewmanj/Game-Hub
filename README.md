@@ -3,8 +3,8 @@ This is an interactive desktop application for storing a list of different click
 
 ## Instructions
 **1. Clone repository and enter directory:**  
-  git clone https://github.com/aaronnewmanj/Game-Hub.git
-  cd Game-Hub
+  git clone https://github.com/aaronnewmanj/Game-Hub.git  
+  cd Game-Hub   
 
 **2. Run Program:**  
   python3 GameHub.py  
