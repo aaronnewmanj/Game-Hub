@@ -1,7 +1,7 @@
-#Game Hub
+# Game Hub
 This is an interactive desktop application for storing a list of different playable games. It was designed using the Python Tkinter library for front end user-interface, as well as Pygame for game functionality.
 
-##Instructions
+## Instructions
 **1. Clone repository:**
   git clone https://github.com/aaronnewmanj/Game-Hub.git
 
